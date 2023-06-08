@@ -23,3 +23,11 @@ to repeat dreambooth experiments train you dreambooth model (https://dreambooth.
 cd stable-dreamfsion
 python3 main --text "sks car" --hf_key path_to_model/model_name --workspace trial -O
 ```
+![]
+([https://github.com/ToxaSurkov/dreamfusion_pretrain/1.gif])
+![]
+([https://github.com/ToxaSurkov/dreamfusion_pretrain/2.gif])
+![]
+([https://github.com/ToxaSurkov/dreamfusion_pretrain/3.gif])
+![]
+([https://github.com/ToxaSurkov/dreamfusion_pretrain/4.gif])
